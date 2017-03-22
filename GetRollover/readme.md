@@ -1,4 +1,4 @@
-With this program you can get rollover rates for all symbols in your account,
+With this program you can get rollover/swap rates for all symbols in your account,
 
 To run it, download all files in this folder: 
 
