@@ -32,16 +32,17 @@ GBP/USD,0.48,-1.11
 USD/CHF,-2.25,1.05
 
 2.	XML file – follover.xml
-<rate>
-<symbol>EUR/USD</symbol>
-<rolbuy>-1.86</rolbuy>
-<rolsell>0.81</rolsell>
-</rate>
-<rate>
-<symbol>USD/JPY</symbol>
-<rolbuy>0.51</rolbuy>
-<rolsell>-1.17</rolsell>
-</rate>
+
+< rate >
+
+< symbol >EUR/USD< /symbol >
+
+< rolbuy >-1.86< /rolbuy >
+
+< rolsell >0.81< /rolsell >
+
+< /rate >
+
 
 This example program included with full source code in C++, using Forex Connect API 1.4.1, Win32.
 
