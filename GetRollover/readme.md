@@ -12,9 +12,13 @@ save the changes and run rollover1.cmd
 the output will be in two files format:
 
 1.	Text file – rollover.txt, Symbol, Roll Buy, Roll Sell: 
+
 EUR/USD,0.81,-1.86
+
 USD/JPY,-1.17,0.51
+
 GBP/USD,0.48,-1.11
+
 USD/CHF,-2.25,1.05
 
 2.	XML file – follover.xml
