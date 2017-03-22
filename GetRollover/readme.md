@@ -35,3 +35,4 @@ USD/CHF,-2.25,1.05
 
 This example program included with full source code in C++, using Forex Connect API 1.4.1, Win32.
 
+Daniel
