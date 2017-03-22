@@ -11,7 +11,7 @@ save the changes and run rollover1.cmd
 
 the output will be in two files format:
 
-1.	Text file – rollover.txt, Symbol, Roll Buy, Roll Sell: 
+1.	Text file – rollover.txt, Symbol, Roll Sell, Roll Buy: 
 
 EUR/USD,0.81,-1.86
 
