@@ -6,7 +6,7 @@ edit file rollover1.cmd, the file looks like:
 you need to change few parameters:
 Username – your login
 Password  -  login password
-Demo – for demo accounts should be Demo, for real accout change to Real
+Demo – for demo account should be Demo, for real account change to Real
 save the changes and run rollover1.cmd
 
 the output will be in two files format:
