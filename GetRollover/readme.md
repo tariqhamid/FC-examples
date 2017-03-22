@@ -1,13 +1,23 @@
-With this program you can get rollover rates for all symbols in your account, 
+With this program you can get rollover rates for all symbols in your account,
+
 To run it, download all files in this folder: 
+
 https://github.com/FXCMAPI/FC-examples/tree/master/GetRollover/bin
+
 edit file rollover1.cmd, the file looks like:
+
 -l Username -p Password -u http://www.fxcorporate.com/Hosts.jsp -c Demo 
+
 you need to change few parameters:
+
 Username – your login
+
 Password  -  login password
+
 Demo – for demo account should be Demo, for real account change to Real
+
 save the changes and run rollover1.cmd
+
 
 the output will be in two files format:
 
