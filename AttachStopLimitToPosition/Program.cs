@@ -4,7 +4,7 @@ using System.Text;
 using System.Configuration;
 using fxcore2;
 
-namespace CreateELS
+namespace AttachStopLimitToPosition
 {
     class Program
     {
@@ -17,7 +17,7 @@ namespace CreateELS
                 LoginParams loginParams = new LoginParams(ConfigurationManager.AppSettings);
                 SampleParams sampleParams = new SampleParams(ConfigurationManager.AppSettings);
 
-                PrintSampleParams("CreateStopLimitForEntry", loginParams, sampleParams);
+                PrintSampleParams("AttachStopLimitToPosition", loginParams, sampleParams);
 
                 session = O2GTransport.createSession();
                 SessionStatusListener statusListener = new SessionStatusListener(session, loginParams.SessionID, loginParams.Pin);
