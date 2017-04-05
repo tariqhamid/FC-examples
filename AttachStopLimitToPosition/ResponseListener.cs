@@ -4,7 +4,7 @@ using System.Text;
 using System.Threading;
 using fxcore2;
 
-namespace CreateELS
+namespace AttachStopLimitToPosition
 {
     class ResponseListener : IO2GResponseListener
     {
